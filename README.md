@@ -1,51 +1,51 @@
-## Hi, I'm Greeshma
+## Greeshma
 
-I’m a 2nd-year BTech CSE (AI & ML) student with a strong interest in frontend web development and software engineering.  
-I enjoy building user-focused applications and continuously improving my problem-solving and development skills.
+BTech Computer Science (AI & ML) undergraduate with a strong foundation in frontend web development and programming fundamentals.  
+Focused on building clean, scalable, and user-centric applications while continuously improving software engineering skills.
 
 ---
 
 ### Education
-- **BTech in Computer Science (AI & ML)**  
-  MBU AP | 2nd Year
+**BTech – Computer Science (AI & Machine Learning)**  
+MBU AP | 2nd Year
 
 ---
 
 ### Technical Skills
-- **Languages:** HTML, CSS, JavaScript, Java  
-- **Frontend:** Responsive Web Design, API Integration  
-- **Tools & Platforms:** Git, GitHub, Android Studio, VS Code  
-- **Concepts:** OOPS, Basic Data Structures, Problem Solving
+- **Programming Languages:** HTML, CSS, JavaScript, Java  
+- **Web Development:** Responsive Design, API Integration, Frontend Architecture  
+- **Tools:** Git, GitHub, Android Studio, Visual Studio Code  
+- **Core Concepts:** Object-Oriented Programming, Basic Data Structures, Problem Solving
 
 ---
 
 ### Projects
-- **Todo App** – Task management application with a clean UI  
-- **Weather App** – Real-time weather data using APIs  
-- **Movie Explorer App** – Movie discovery app using TMDB API  
-- **Frontend E-commerce Website** – Product listings and UI components  
-- **StudyMate** – AI-powered study planner (ongoing)
+- **StudyMate** – AI-powered study planner with task management features  
+- **Movie Explorer** – Web application using TMDB API for movie discovery  
+- **Weather Application** – Real-time weather data integration  
+- **Todo Application** – Task tracking application  
+- **Frontend E-commerce Website** – UI-focused product listing platform  
 
-Live demos and source code are available in my repositories.
+Source code and live demos are available in the respective repositories.
 
 ---
 
 ### Currently Learning
-- Advanced JavaScript  
-- Java (OOPS and application-level concepts)  
+- Advanced JavaScript concepts  
+- Java application development  
 - Android app development  
-- Fundamentals of AI and Machine Learning
+- Fundamentals of Artificial Intelligence and Machine Learning
 
 ---
 
-### Career Goals
-- Strengthen software development fundamentals  
-- Build real-world, production-ready projects  
-- Secure an internship as a software / frontend developer  
-- Grow into a well-rounded engineer
+### Professional Goals
+- Develop strong software engineering fundamentals  
+- Build production-ready applications  
+- Gain industry experience through internships  
+- Grow as a full-stack and AI-focused engineer
 
 ---
 
-### Contact
-- **GitHub:** @greeshma85-stack
+### Profile
+- **GitHub:** greeshma85-stack
 
