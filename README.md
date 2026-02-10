@@ -31,8 +31,8 @@ Source code and live demos are available in the respective repositories.
 ---
 
 ### Currently Learning
-- Advanced JavaScript concepts  
-- Java application development  
+- fundamentals of JavaScript concepts  
+- Java (OOPS and data structures) 
 - Android app development  
 - Fundamentals of Artificial Intelligence and Machine Learning
 
