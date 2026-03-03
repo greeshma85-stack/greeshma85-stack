@@ -14,7 +14,7 @@ MBU AP | 2nd Year
 ## Technical Skills
 - **Programming Languages:** HTML, CSS, JavaScript, Java  
 - **Web Development:** Responsive Design, API Integration, Frontend Architecture  
-- **Tools:** Git, GitHub, Android Studio, Visual Studio Code  
+- **Tools:** Git, GitHub, Visual Studio Code  
 - **Core Concepts:** Object-Oriented Programming, Basic Data Structures, Problem Solving
 
 ---
