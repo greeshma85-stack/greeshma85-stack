@@ -20,13 +20,19 @@ MBU AP | 2nd Year
 ---
 
 ### Projects
+-**Web Development Projects**
 - **StudyMate** – AI-powered study planner with task management features  
 - **Movie Explorer** – Web application using TMDB API for movie discovery  
 - **Weather Application** – Real-time weather data integration  
 - **Todo Application** – Task tracking application  
-- **Frontend E-commerce Website** – UI-focused product listing platform  
+- **Frontend E-commerce Website** – UI-focused product listing platform
+- 
+- Source code and live demos are available in the respective repositories. 
 
-Source code and live demos are available in the respective repositories.
+-**Java Projects**
+-**Student Management System** – Console-based Java application to manage student records (CRUD operations, OOP principles)
+-**Expense Tracker** – Java-based application to track daily expenses with category-wise management
+-**ATM Simulation System** – Core Java project simulating ATM operations like balance check, deposit, withdraw using OOP concepts
 
 ---
 
